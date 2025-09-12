@@ -1,0 +1,4 @@
+# ninja log v6
+0	505	1750751168682155700	/home/dfg/workspace/DenseFusion/lib/knn/build/temp.linux-x86_64-cpython-38/home/dfg/workspace/DenseFusion/lib/knn/src/cuda/knn.o	65daa0deb932e987
+0	9841	1750751168682155700	/home/dfg/workspace/DenseFusion/lib/knn/build/temp.linux-x86_64-cpython-38/home/dfg/workspace/DenseFusion/lib/knn/src/cpu/knn_cpu.o	c754b88f4f99ff3e
+1	14301	1750751168682155700	/home/dfg/workspace/DenseFusion/lib/knn/build/temp.linux-x86_64-cpython-38/home/dfg/workspace/DenseFusion/lib/knn/src/vision.o	ce4797e54a137705
